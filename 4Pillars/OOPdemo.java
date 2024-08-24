@@ -1,3 +1,11 @@
+/*
+- Abstraction: Abstract class `Vehicle` with an abstract method `displayInfo()`.
+- Inheritance: `Car` and `Bike` subclasses extending `Vehicle`.
+- Polymorphism: Method overloading in the `Calculator` class.
+- Encapsulation: Private fields with getters and setters in the `Vehicle` class.
+*/
+
+
 // Abstract class demonstrating Abstraction
 abstract class Vehicle {
     private String brand;
