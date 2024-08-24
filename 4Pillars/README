@@ -1,6 +1,6 @@
 This repository showcases key Object-Oriented Programming (OOP) concepts in Java:
 
-- **Abstraction**: Abstract class `Vehicle` with an abstract method `displayInfo()`.
-- **Inheritance**: `Car` and `Bike` subclasses extending `Vehicle`.
-- **Polymorphism**: Method overloading in the `Calculator` class.
-- **Encapsulation**: Private fields with getters and setters in the `Vehicle` class.
+- Abstraction: Hides complex implementation details and shows only the essential features of an object.
+- Inheritance: Allows a class to inherit properties and methods from another class.
+- Polymorphism: Enables objects to be treated as instances of their parent class rather than their actual class.
+- Encapsulation: Bundles data and methods that operate on the data into a single unit or class.
